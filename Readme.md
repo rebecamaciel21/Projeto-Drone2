@@ -41,10 +41,7 @@ sem frameworks.
 Foi um projeto bem detalhado que me ajudou a perceber como esses pequenos detalhes podem fazer diferença no final. Fiquei satisfeita com o resultado final e com a identidade visual da AgroVant.
 
 
-
-
-
-<!-- Exemplo: https://seu-usuario.github.io/landing-page-drone/ -->
+Link Vercel: https://projeto-drone2.vercel.app/
 
 
 
@@ -67,8 +64,6 @@ landing-page-drone/
 - [x] Depoimentos
 - [x] Formulário de contato
 
-<!-- Marque com um X entre os colchetes as seções que você concluiu: [x] -->
-
 
 
 -  — `header`, `main`, `section`, `footer`
@@ -90,8 +85,8 @@ media queries acrescentam o comportamento das telas maiores, a partir de .
 
 
 ```bash
-git clone [url do seu repositório]
-cd [nome da pasta]
+git clone https://github.com/rebecamaciel21/Projeto-Drone2.git
+cd Projeto Drone
 ```
 
 Depois é só abrir o `index.html` no navegador.
