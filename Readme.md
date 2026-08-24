@@ -89,13 +89,8 @@ git clone https://github.com/rebecamaciel21/Projeto-Drone2.git
 cd Projeto Drone
 ```
 
-Depois é só abrir o `index.html` no navegador.
-
-
 
 - Protótipo do layout: material da disciplina
 - Imagens e vídeos: material fornecido pelo professor
-- Fontes: [Roboto](https://fonts.google.com/specimen/Roboto) e
-  [Inter](https://fonts.google.com/specimen/Inter), via Google Fonts
-
+- Fontes: [Roboto]("https://fonts.googleapis.com"), via Google Fonts
 ---
