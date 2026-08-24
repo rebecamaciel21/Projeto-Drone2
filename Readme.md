@@ -84,8 +84,8 @@ media queries acrescentam o comportamento das telas maiores, a partir de .
 
 | Tela | Comportamento |
 |---|---|
-| Celular | [descreva: o menu some, os cards empilham...] |
-| Desktop | [descreva: o menu aparece, três cards por linha...] |
+| Celular | O conteúdo se adapta à largura da tela, os cards de depoimentos ficam empilhados em uma única coluna e os textos e elementos são ajustados para facilitar a leitura. |
+| Desktop |  O menu de navegação é exibido normalmente e os três cards de depoimentos ficam organizados lado a lado, aproveitando melhor o espaço disponível. |
 
 
 
