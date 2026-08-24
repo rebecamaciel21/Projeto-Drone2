@@ -1,0 +1,35 @@
+<!-- 
+Exercício 4: Agrupando Elementos
+Objetivo: Criar um "card" que terá um cabeçalho <header> com um título <h2> e um corpo <div> com um parágrafo <p>. 
+Tudo isto dentro de uma div principal com a classe card.
+
+Abreviação Emmet (Resposta):
+
+div.card>(header>h2{Título do Card})+(div.card-body>p{Conteúdo do card.})
+Explicação Passo a Passo:
+
+div.card: Cria a div principal com a classe card.
+
+>: O que vem a seguir vai para dentro do div.card.
+
+(...): Os parênteses servem para agrupar elementos. Isto é útil quando temos estruturas complexas com múltiplos "irmãos".
+
+header>h2{...}: O nosso primeiro grupo, o cabeçalho.
+
++: Como o + está entre os dois grupos (...), o header e o div.card-body serão irmãos.
+
+div.card-body>p{...}: O nosso segundo grupo, o corpo do card.
+
+O resultado é uma estrutura bem organizada:
+
+HTML
+
+<div class="card">
+    <header>
+        <h2>Título do Card</h2>
+    </header>
+    <div class="card-body">
+        <p>Conteúdo do card.</p>
+    </div>
+</div>
+ -->

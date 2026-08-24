@@ -1,0 +1,31 @@
+<!-- 
+Exercício 3: Adicionando Conteúdo, Atributos e Numeração
+Objetivo: Vamos melhorar o menu anterior. 
+Agora, cada <li> deve conter um link <a>. O link deve apontar para "#" e ter o texto "Item 1", "Item 2", e assim por diante.
+
+Abreviação Emmet (Resposta):
+
+ul>li*5>a[href="#"]{Item $}
+
+Explicação Passo a Passo:
+
+ul>li*5: Já conhecemos esta parte. Cria uma lista com 5 itens.
+
+>: Novamente, o operador "filho". O que vem a seguir irá para dentro de cada um dos 5 <li> que criámos.
+
+a: Cria a tag de link <a></a>.
+
+[href="#"]: Os colchetes [] servem para adicionar atributos. Aqui, estamos a definir o atributo href com o valor "#"
+
+{Item $}: As chaves {} servem para adicionar conteúdo de texto. O $ é um contador especial do Emmet que começa em 1 e incrementa a cada repetição.
+
+O resultado é um menu completo e funcional:
+
+<ul>
+    <li><a href="#">Item 1</a></li>
+    <li><a href="#">Item 2</a></li>
+    <li><a href="#">Item 3</a></li>
+    <li><a href="#">Item 4</a></li>
+    <li><a href="#">Item 5</a></li>
+</ul>
+-->
